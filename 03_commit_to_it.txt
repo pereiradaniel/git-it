@@ -1,0 +1,1 @@
+This file was created to pass task 03 of git-it tutorial.
